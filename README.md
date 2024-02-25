@@ -1,1 +1,3 @@
-"Temple Run" es un juego de aventuras y acción que pertenece al género de "endless runner" o "corredor infinito". Este tipo de juegos se caracteriza por un estilo de juego continuo y sin fin, donde el objetivo principal es sobrevivir el mayor tiempo posible mientras evitas obstáculos y recoges objetos.
+Nombre : Atzel Alan Cervantes Torres
+Grupo : T1 - L1 
+Fecha : 25/02/2024
