@@ -1,5 +1,6 @@
 #include "EstadisticasGenerales.h"
-
+#include<iostream>
+using namespace std;
 void EstadisticasGenerales::RegistroPartidas(int partidasJugadas, int partidasGanadas)
 {
 }
