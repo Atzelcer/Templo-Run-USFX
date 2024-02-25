@@ -1,4 +1,6 @@
 #include "PersonajePrincipal.h"
+#include<iostream>
+using namespace std;
 
 void PersonajePrincipal::ControlMoverse(int posicionX, int posicionY)
 {
