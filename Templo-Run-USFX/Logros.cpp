@@ -1,4 +1,6 @@
 #include "Logros.h"
+#include<iostream>
+using namespace std;
 
 void Logros::IdentificadordeLogro(char NombreLogro)
 {
