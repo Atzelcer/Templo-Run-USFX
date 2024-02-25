@@ -1,5 +1,6 @@
 #include "Escenario.h"
-
+#include<iostream>
+using namespace std;
 void Escenario::PosicionCamara(float posicionX, float posicionY)
 {
 }
