@@ -1,5 +1,6 @@
 #include "TiendaRecompesas.h"
-
+#include<iostream>
+using namespace std;
 void TiendaRecompesas::CantidadArticulos(int habilidades, int potenciadores, int monedas, int gemas)
 {
 }
